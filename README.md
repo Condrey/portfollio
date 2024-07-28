@@ -15,7 +15,7 @@ Built with:
 - Upstash Redis (caching)
 - Tailwind CSS
 - TypeScript
-
+<!-- 
 Watch the free tutorial on YouTube: https://www.youtube.com/watch?v=1LZltsK5nKI
 
-![thumbnail](https://github.com/codinginflow/nextjs-langchain-portfolio/assets/52977034/32b81c40-a61d-4e79-9d2d-ee8ef4a3cf90)
+![thumbnail](https://github.com/codinginflow/nextjs-langchain-portfolio/assets/52977034/32b81c40-a61d-4e79-9d2d-ee8ef4a3cf90) -->
