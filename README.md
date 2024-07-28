@@ -7,6 +7,7 @@ Build a portfolio website with an AI chatbot that can answer **any question** ab
 Or build a **smart documentation page** that can answer users' questions based on the contents of the website.
 
 Built with:
+
 - Next.js 14
 - LangChain.js
 - OpenAI ChatGPT API
